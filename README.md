@@ -32,7 +32,7 @@ faço bacharelado em Ciência da Computação pela Universidade Braz Cubas em Mo
 Gosto de jogar videogames, de aprender, de ler e fazer modelagens e animações 3D.
 
 ### :books: Estudos extras
-Atualmente estou aprendendo a utilizar o Python, pelo bootcamp da Digital Innovation One (DIO).
+Completei o bootcamp Suzano Python Developer na DIO.
 
 ### :pencil: Habilidades
 
@@ -43,6 +43,8 @@ Atualmente estou aprendendo a utilizar o Python, pelo bootcamp da Digital Innova
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)](https://www.python.org/doc/)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=#9f7cff)
+
 
 ### :wrench: Ferramentas
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode)
