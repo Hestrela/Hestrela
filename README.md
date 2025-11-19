@@ -53,12 +53,12 @@ Meu foco atual é o desenvolvimento Backend com **Python** e exploração de **I
 
 Aqui estão alguns dos projetos que desenvolvi em grupo para aplicar meus conhecimentos em Python e PHP:
 
-### 🤖 [Dolphinia - Chat com IA Integrada](LINK_DO_SEU_REPO_DOLPHINIA_AQUI)
+### 🤖 [Dolphinia - Chat com IA Integrada](https://github.com/ViniEduOliveira/project-chat-faculdade)
 Um chatbot inteligente desenvolvido para responder perguntas. O projeto integra a API da IA do Google Gemini para processamento de linguagem natural.
 - **Techs:** HTML, CSS, PHP, APIs de IA, Banco de Dados (MySQL).
 - **Aprendizado:** Integração de APIs, manipulação de respostas em tempo real.
 
-### 📝 [Task List - Persistência de Dados](LINK_DO_SEU_REPO_TAREFAS_AQUI)
+### 📝 [Task List - Persistência de Dados](https://github.com/Hestrela/lista_de_tarefas_python)
 Uma aplicação de lista de tarefas (To-Do List) focada em Backend e manipulação de dados. O diferencial é o sistema de persistência de dados utilizando arquivos JSON, garantindo que as tarefas não se percam ao fechar o programa.
 - **Techs:** Python, JSON (I/O), Lógica de programação.
 - **Aprendizado:** CRUD (Create, Read, Update, Delete) e manipulação de arquivos.
